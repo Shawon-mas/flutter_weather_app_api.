@@ -106,7 +106,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                           child: RefreshIndicator(
                                             onRefresh: () =>
                                                 _refreshData(context),
-                                            backgroundColor: Colors.blue,
+                                            backgroundColor: Colors.black54,
                                             child: ListView(
                                               children: [
                                                 MainWeather(wData: weatherData),
