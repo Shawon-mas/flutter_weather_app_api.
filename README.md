@@ -1,6 +1,6 @@
 # weather
 
-This is weather application using by api.
+This is weather application using by flutter with api.
 
 :white_check_mark: How to Run
 
