@@ -28,6 +28,8 @@ class HourlyForecast extends StatelessWidget {
             offset: Offset(6, 8),
           ),
         ],
+
+        //using network image
         image: DecorationImage(
             image: NetworkImage('https://img.freepik.com/free-vector/white-abstract-background-3d-paper-style_23-2148403778.jpg?w=2000'),
             fit: BoxFit.cover

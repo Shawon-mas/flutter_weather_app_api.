@@ -59,7 +59,7 @@ class SevenDayForecast extends StatelessWidget {
           margin: EdgeInsets.all(15),
           padding: EdgeInsets.symmetric(horizontal: 25, vertical: 10),
           decoration: BoxDecoration(
-
+            //using network image
             borderRadius: BorderRadius.circular(15),
             image: DecorationImage(
                 image: NetworkImage('https://static.vecteezy.com/system/resources/thumbnails/000/274/926/small_2x/White_Paper_Background.jpg'),
