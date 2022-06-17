@@ -1,6 +1,9 @@
 # weather
 
-A new Flutter project.
+This is weather application using by api.
+
+
+created by:Shawon
 
 ## Getting Started
 
