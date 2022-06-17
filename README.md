@@ -3,7 +3,7 @@
 This is weather application using by api.
 
 :white_check_mark: How to Run
-1.Get your API key from https://home.openweathermap.org/api_keys.
+1.Get your API key from https://home.openweathermap.org/api_keys. \n
 2.Navigate to lib/provider/weatherProvider.dart and paste your API key to the apiKey variable
      String apiKey = 'Paste Your API Key Here';
 
